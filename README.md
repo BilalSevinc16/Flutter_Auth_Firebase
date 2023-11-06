@@ -1,16 +1,9 @@
-# flutter_auth_firebase
+# Flutter Auth Firebase
 
-A new Flutter project.
+Flutter Auth Firebase
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Flutter_Auth_Firebase/assets/146417248/0b7d8b22-3905-497f-8334-0f68660bb362)
 
-This project is a starting point for a Flutter application.
+![3](https://github.com/BilalSevinc16/Flutter_Auth_Firebase/assets/146417248/86b1c090-048d-46db-8cfb-d2dd10dadf5e)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Flutter_Auth_Firebase/assets/146417248/06c740bf-f3ca-4bbf-89f6-f77ef4ed8352)
